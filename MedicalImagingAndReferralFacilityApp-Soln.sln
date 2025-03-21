@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalImagingAndReferralFacilityApp", "MedicalImagingAndReferralFacilityApp\MedicalImagingAndReferralFacilityApp.csproj", "{FABB7766-0FE3-4124-B505-E679FFCF4325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysicianReferralsWeb", "PhysicianReferralsWeb\PhysicianReferralsWeb.csproj", "{CBADD2B7-8E03-4C03-9EEB-598FA74CABE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FABB7766-0FE3-4124-B505-E679FFCF4325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABB7766-0FE3-4124-B505-E679FFCF4325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABB7766-0FE3-4124-B505-E679FFCF4325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABB7766-0FE3-4124-B505-E679FFCF4325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBADD2B7-8E03-4C03-9EEB-598FA74CABE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBADD2B7-8E03-4C03-9EEB-598FA74CABE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBADD2B7-8E03-4C03-9EEB-598FA74CABE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBADD2B7-8E03-4C03-9EEB-598FA74CABE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF1F480E-E643-471E-9AC3-5234A0AE603F}
+	EndGlobalSection
+EndGlobal
